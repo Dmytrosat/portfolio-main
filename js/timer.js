@@ -1,4 +1,7 @@
+// Select the timer display element
 const timerBlock = document.querySelector('.timer__time');
+
+// Set the deadline date
 const deadline = '28 february 2026';
 
 let interval;
